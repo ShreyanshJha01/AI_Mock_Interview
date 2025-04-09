@@ -8,7 +8,7 @@ from accelerate import init_empty_weights
 from tqdm import tqdm  
 
 # Configuration
-ATS_FILE_PATH = r"C:\Users\KIIT\Desktop\Semester\code\projects\my project\final_cleaned.csv"
+ATS_FILE_PATH = r"C:\Users\final_cleaned.csv"
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 INDEX_FILE = "job_embeddings.faiss"
 
